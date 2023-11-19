@@ -20,7 +20,7 @@ OpenAI API Calculatorは、OpenAIの様々なAPIモデル（例えばGPT-4）の
 
 1. リポジトリをクローンする：
    ```
-   git clone [リポジトリのURL]
+   git clone git@github.com:noricha-vr/openai-api-calculator.git
    ```
 
 2. 依存関係をインストールする：
